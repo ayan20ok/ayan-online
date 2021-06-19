@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ayan-online/static/css/main.ff637949.chunk.css",
-    "main.js": "/ayan-online/static/js/main.c3e93ceb.chunk.js",
-    "main.js.map": "/ayan-online/static/js/main.c3e93ceb.chunk.js.map",
+    "main.js": "/ayan-online/static/js/main.e44c0bf0.chunk.js",
+    "main.js.map": "/ayan-online/static/js/main.e44c0bf0.chunk.js.map",
     "runtime-main.js": "/ayan-online/static/js/runtime-main.92039837.js",
     "runtime-main.js.map": "/ayan-online/static/js/runtime-main.92039837.js.map",
     "static/css/2.c1bd8eec.chunk.css": "/ayan-online/static/css/2.c1bd8eec.chunk.css",
     "static/js/2.0952ba67.chunk.js": "/ayan-online/static/js/2.0952ba67.chunk.js",
     "static/js/2.0952ba67.chunk.js.map": "/ayan-online/static/js/2.0952ba67.chunk.js.map",
     "index.html": "/ayan-online/index.html",
-    "precache-manifest.b3eb42bf3148c087d72ffeda4da489f7.js": "/ayan-online/precache-manifest.b3eb42bf3148c087d72ffeda4da489f7.js",
+    "precache-manifest.0231d6e41bafbd584fc68eb2e99f63d3.js": "/ayan-online/precache-manifest.0231d6e41bafbd584fc68eb2e99f63d3.js",
     "service-worker.js": "/ayan-online/service-worker.js",
     "static/css/2.c1bd8eec.chunk.css.map": "/ayan-online/static/css/2.c1bd8eec.chunk.css.map",
     "static/css/main.ff637949.chunk.css.map": "/ayan-online/static/css/main.ff637949.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.c1bd8eec.chunk.css",
     "static/js/2.0952ba67.chunk.js",
     "static/css/main.ff637949.chunk.css",
-    "static/js/main.c3e93ceb.chunk.js"
+    "static/js/main.e44c0bf0.chunk.js"
   ]
 }

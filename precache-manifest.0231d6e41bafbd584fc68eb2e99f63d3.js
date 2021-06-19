@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eec13af57abe6b012130f9de29de35d7",
+    "revision": "33f26347379ee56b680badf386d55ff3",
     "url": "/ayan-online/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ayan-online/static/css/2.c1bd8eec.chunk.css"
   },
   {
-    "revision": "10977bfd256131d11ff2",
+    "revision": "072d3eec4388c2f39ded",
     "url": "/ayan-online/static/css/main.ff637949.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ayan-online/static/js/2.0952ba67.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "10977bfd256131d11ff2",
-    "url": "/ayan-online/static/js/main.c3e93ceb.chunk.js"
+    "revision": "072d3eec4388c2f39ded",
+    "url": "/ayan-online/static/js/main.e44c0bf0.chunk.js"
   },
   {
     "revision": "57a34b24e9b2cb1f8ba8",
