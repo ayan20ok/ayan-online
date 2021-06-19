@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ayan-online/precache-manifest.ea4e97dd00fa145f0f8662d45fb1b3f2.js"
+  "/ayan-online/precache-manifest.e4a80d8bde558981fee4a8bb3d218a99.js"
 );
 
 self.addEventListener('message', (event) => {
