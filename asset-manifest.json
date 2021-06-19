@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ayan-online/static/css/main.07147a41.chunk.css",
+    "main.js": "/ayan-online/static/js/main.9ceeeae6.chunk.js",
+    "main.js.map": "/ayan-online/static/js/main.9ceeeae6.chunk.js.map",
+    "runtime-main.js": "/ayan-online/static/js/runtime-main.92039837.js",
+    "runtime-main.js.map": "/ayan-online/static/js/runtime-main.92039837.js.map",
+    "static/css/2.afd40c00.chunk.css": "/ayan-online/static/css/2.afd40c00.chunk.css",
+    "static/js/2.0952ba67.chunk.js": "/ayan-online/static/js/2.0952ba67.chunk.js",
+    "static/js/2.0952ba67.chunk.js.map": "/ayan-online/static/js/2.0952ba67.chunk.js.map",
+    "index.html": "/ayan-online/index.html",
+    "precache-manifest.3028ac0aeaedba7d30e643c3109008ee.js": "/ayan-online/precache-manifest.3028ac0aeaedba7d30e643c3109008ee.js",
+    "service-worker.js": "/ayan-online/service-worker.js",
+    "static/css/2.afd40c00.chunk.css.map": "/ayan-online/static/css/2.afd40c00.chunk.css.map",
+    "static/css/main.07147a41.chunk.css.map": "/ayan-online/static/css/main.07147a41.chunk.css.map",
+    "static/js/2.0952ba67.chunk.js.LICENSE.txt": "/ayan-online/static/js/2.0952ba67.chunk.js.LICENSE.txt",
+    "static/media/ayan_big.jpg": "/ayan-online/static/media/ayan_big.69dacb3d.jpg",
+    "static/media/globallogic_logo.jpg": "/ayan-online/static/media/globallogic_logo.efec513e.jpg",
+    "static/media/tis-logo.jpg": "/ayan-online/static/media/tis-logo.a240b3d1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92039837.js",
+    "static/css/2.afd40c00.chunk.css",
+    "static/js/2.0952ba67.chunk.js",
+    "static/css/main.07147a41.chunk.css",
+    "static/js/main.9ceeeae6.chunk.js"
+  ]
+}
