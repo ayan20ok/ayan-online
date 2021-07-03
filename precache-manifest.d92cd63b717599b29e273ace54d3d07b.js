@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "952b377186856f88cd8792a072af943d",
+    "revision": "6746e1af66a854e43edb0950a00ee045",
     "url": "/ayan-online/index.html"
   },
   {
-    "revision": "df921205a3b007546835",
+    "revision": "0a80dea36dfe880da481",
     "url": "/ayan-online/static/css/2.c1bd8eec.chunk.css"
   },
   {
-    "revision": "340e40232c7a821fc22b",
+    "revision": "a8b2f2e333cd4c922d53",
     "url": "/ayan-online/static/css/main.ff637949.chunk.css"
   },
   {
-    "revision": "df921205a3b007546835",
-    "url": "/ayan-online/static/js/2.0952ba67.chunk.js"
+    "revision": "0a80dea36dfe880da481",
+    "url": "/ayan-online/static/js/2.b09e199e.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/ayan-online/static/js/2.0952ba67.chunk.js.LICENSE.txt"
+    "url": "/ayan-online/static/js/2.b09e199e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "340e40232c7a821fc22b",
-    "url": "/ayan-online/static/js/main.1cbc46fa.chunk.js"
+    "revision": "a8b2f2e333cd4c922d53",
+    "url": "/ayan-online/static/js/main.020e3bee.chunk.js"
   },
   {
     "revision": "57a34b24e9b2cb1f8ba8",
